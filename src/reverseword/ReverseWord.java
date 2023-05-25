@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author navni
+ * @author navni  navvv
  */
 public class ReverseWord {
 
